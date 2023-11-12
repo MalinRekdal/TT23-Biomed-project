@@ -14,3 +14,4 @@ from an injection of mammary carcinoma cells fraction enriched with extracellula
 - jupyter
 - umap-learn
 - opencv-python
+- scipy

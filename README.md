@@ -1,4 +1,6 @@
 # Analysis of Heatmap Images: Unsupervised Learning Tasks
+This work is for a project in TTT23. Group: Kim Duyen Le, Laura Feøy Ven, Live Standal Myklebust and Malin Rekdal
+
 ## What is in this repositorium 
  
 Code that uses unsupervised learning to analyze 33 images of mice with tumors. The goal is to extract meaningful features from the images. 
